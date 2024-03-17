@@ -1,0 +1,7 @@
+#pragma once
+
+#define MOUSEKEY_INERTIA
+#define MOUSEKEY_DELAY 5
+#define MOUSEKEY_MAX_SPEED 10
+#define MOUSEKEY_TIME_TO_MAX 11
+#define MOUSEKEY_FRICTION 11
